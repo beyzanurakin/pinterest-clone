@@ -17,7 +17,6 @@ function MainBoard() {
 export default MainBoard
 
 const Wrapper = styled.div`
-  background-color: pink;
   display: flex;
   width: 100%;
   height: 100%;
@@ -25,6 +24,5 @@ const Wrapper = styled.div`
   justify-content: center;
 `
 const Container = styled.div`
-  background-color: green;
   width: 80%;
 `
