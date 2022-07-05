@@ -1,4 +1,5 @@
 import React from 'react'
+import styled from 'styled-components'
 import PinterestIcon from '@mui/icons-material/Pinterest'
 import IconButton from '@mui/material/IconButton'
 import SearchIcon from '@mui/icons-material/Search'
@@ -6,7 +7,6 @@ import NotificationsIcon from '@mui/icons-material/Notifications'
 import TextsmsIcon from '@mui/icons-material/Textsms'
 import FaceIcon from '@mui/icons-material/Face'
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown'
-import styled from 'styled-components'
 
 function Header() {
   return (
