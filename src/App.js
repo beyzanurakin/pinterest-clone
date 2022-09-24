@@ -9,7 +9,7 @@ function App() {
     return axios.get('https://api.unsplash.com/search/photos', {
       params: {
         query: term,
-        client_id: '',
+        client_id: '9NKafZDS939X3ex_XDrJPeB54I6AVkXpyv-tba9jKH4',
       },
     })
   }
